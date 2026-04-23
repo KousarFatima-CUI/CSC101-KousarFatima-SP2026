@@ -1,7 +1,11 @@
 Name: Kousar Fatima
 Section: ELC-1A
 Registration: SP26-ELC-039
-Course: CSC101 Introduction to ICT
-Semester: Spring 2026
-Instructor: Dr. Junaid  Ali
-Campus: COMSATS University Islamabad
+Why learning programming is important for me:
+Programming builds logical thinking and problem-solving skills essential for electrical engineering.
+It enables me to automate tasks and work with microcontrollers in embedded systems projects.
+Version control with Git helps track my code changes for all CSC101 lab assignments.
+C++ knowledge from this course is the foundation for advanced courses in my degree.
+Software skills increase career opportunities in both hardware and software domains.
+Understanding code helps me debug electronics projects more effectively in labs.
+It allows me to collaborate on technical projects using platforms like GitHub with my classmates.
